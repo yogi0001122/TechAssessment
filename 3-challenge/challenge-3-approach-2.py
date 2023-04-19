@@ -4,7 +4,7 @@ import string
 
 
 def remove_special_chars_regex(pattern):
-    chars = re.escape(string.punctuation)
+    chars = string.punctuation
     new_pattern = re.sub(r'['+chars+']', '', pattern)
     return new_pattern
 
