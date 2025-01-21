@@ -1,8 +1,3 @@
-# 3-Tier Environment Architecture
-
-![Enviornment](./challenge1_new.jpg)
-
-
 # Terraform code to deploy three-tier architecture on azure
 #### Note: Additional improvements and remaining resources are required to produce a production-ready solution.
 
